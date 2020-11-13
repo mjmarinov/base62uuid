@@ -1,0 +1,1 @@
+java -jar ./build/libs/base62uuid.jar "$@"
